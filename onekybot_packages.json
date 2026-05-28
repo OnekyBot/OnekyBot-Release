@@ -10,7 +10,7 @@
           "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/OnekyBot/OnekyBot-Release/blob/main/download/v1.0.0/onekybot_boards_v1_0_0.tar.bz2",
+          "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v1.0.0/onekybot_boards_v1_0_0.tar.bz2",
           "archiveFileName": "onekybot_boards_v1_0_0.tar.bz2",
           "checksum": "SHA-256:395b5ad5296fae34714d3a537821a2b8094265f7d05486b1f67f6334d4ad8b92",
           "size": "57290379",
