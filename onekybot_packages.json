@@ -10,9 +10,9 @@
           "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v1.0.0/onekybot_boards_v1_0_0.tar.bz2",
+          "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v1.0.0/onekybot_board_v1_0_0.tar.bz2",
           "archiveFileName": "onekybot_board_v1_0_0.tar.bz2",
-          "checksum": "SHA-256:395b5ad5296fae34714d3a537821a2b8094265f7d05486b1f67f6334d4ad8b92",
+          "checksum": "SHA-256:aedb4df0c36ba2bf4c6d5905920565b372b1a7f3ab9665e576953d4abec04225",
           "size": "57298711",
           "boards": [
             {"name": "OnekyBot F1 Series"},
