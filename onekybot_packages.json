@@ -11,9 +11,9 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v1.0.0/onekybot_boards_v1_0_0.tar.bz2",
-          "archiveFileName": "onekybot_boards_v1_0_0.tar.bz2",
+          "archiveFileName": "onekybot_board_v1_0_0.tar.bz2",
           "checksum": "SHA-256:395b5ad5296fae34714d3a537821a2b8094265f7d05486b1f67f6334d4ad8b92",
-          "size": "57290379",
+          "size": "57298711",
           "boards": [
             {"name": "OnekyBot F1 Series"},
             {"name": "OnekyBot F4 Series"}
@@ -204,11 +204,11 @@
           "name": "OnekyDFU",
           "version": "1.0.0",
           "systems": [
-            {"host": "aarch64-linux-gnu",   "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/oneky_upload.tar.bz2", "archiveFileName": "oneky_upload.tar.bz2", "checksum": "SHA-256:f3b4cafd330f3fe4d0b2a16fb94f5dd727d119b4dac2e9a8c60095ca8f946840", "size": "1907"},
-            {"host": "arm64-apple-darwin",  "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/oneky_upload.tar.bz2", "archiveFileName": "oneky_upload.tar.bz2", "checksum": "SHA-256:f3b4cafd330f3fe4d0b2a16fb94f5dd727d119b4dac2e9a8c60095ca8f946840", "size": "1907"},
-            {"host": "i686-mingw32",        "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/oneky_upload.tar.bz2", "archiveFileName": "oneky_upload.tar.bz2", "checksum": "SHA-256:f3b4cafd330f3fe4d0b2a16fb94f5dd727d119b4dac2e9a8c60095ca8f946840", "size": "1907"},
-            {"host": "x86_64-apple-darwin", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/oneky_upload.tar.bz2", "archiveFileName": "oneky_upload.tar.bz2", "checksum": "SHA-256:f3b4cafd330f3fe4d0b2a16fb94f5dd727d119b4dac2e9a8c60095ca8f946840", "size": "1907"},
-            {"host": "x86_64-pc-linux-gnu", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/oneky_upload.tar.bz2", "archiveFileName": "oneky_upload.tar.bz2", "checksum": "SHA-256:f3b4cafd330f3fe4d0b2a16fb94f5dd727d119b4dac2e9a8c60095ca8f946840", "size": "1907"}
+            {"host": "aarch64-linux-gnu",   "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/onekybot_upload.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:7ca5c7301a900400206e1eed60b628e48e352ccb6a44b02281fd0feafeeb294d", "size": "1950"},
+            {"host": "arm64-apple-darwin",  "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/onekybot_upload.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:7ca5c7301a900400206e1eed60b628e48e352ccb6a44b02281fd0feafeeb294d", "size": "1950"},
+            {"host": "i686-mingw32",        "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/onekybot_upload.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:7ca5c7301a900400206e1eed60b628e48e352ccb6a44b02281fd0feafeeb294d", "size": "1950"},
+            {"host": "x86_64-apple-darwin", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/onekybot_upload.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:7ca5c7301a900400206e1eed60b628e48e352ccb6a44b02281fd0feafeeb294d", "size": "1950"},
+            {"host": "x86_64-pc-linux-gnu", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/onekybot_upload.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:7ca5c7301a900400206e1eed60b628e48e352ccb6a44b02281fd0feafeeb294d", "size": "1950"}
           ]
         }
       ]
