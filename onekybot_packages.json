@@ -60,6 +60,62 @@
               "version": "1.0.0"
             }
           ]
+        },
+        {
+          "name": "OnekyBot Boards",
+          "architecture": "stm32",
+          "version": "2.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v2.0.0/onekybot_board_v2_0_0.tar.bz2",
+          "archiveFileName": "onekybot_board_v2_0_0.tar.bz2",
+          "checksum": "SHA-256:5c938c5e6a857bf2a22eadf8bb4e2e594355f3431489afe469107d6a55a2e0a4",
+          "size": "57298711",
+          "boards": [
+            {"name": "OnekyBot F1 Series"},
+            {"name": "OnekyBot F4 Series"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "STMicroelectronics",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "14.2.1-1.1"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "xpack-openocd",
+              "version": "0.12.0-6"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "STM32Tools",
+              "version": "2.4.0"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "CMSIS",
+              "version": "6.2.0"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "CMSIS_DSP",
+              "version": "1.16.2"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "CMSIS_NN",
+              "version": "7.0.0"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "STM32_SVD",
+              "version": "1.20.0"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "OnekyDFU",
+              "version": "1.0.0"
+            }
+          ]
         }
       ],
       "tools": [
