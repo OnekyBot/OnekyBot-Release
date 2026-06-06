@@ -20,37 +20,37 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "14.2.1-1.1"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "xpack-openocd",
               "version": "0.12.0-6"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "STM32Tools",
               "version": "2.4.0"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "CMSIS",
               "version": "6.2.0"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "CMSIS_DSP",
               "version": "1.16.2"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "CMSIS_NN",
               "version": "7.0.0"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "STM32_SVD",
               "version": "1.20.0"
             },
@@ -76,37 +76,37 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "14.2.1-1.1"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "xpack-openocd",
               "version": "0.12.0-6"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "STM32Tools",
               "version": "2.4.0"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "CMSIS",
               "version": "6.2.0"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "CMSIS_DSP",
               "version": "1.16.2"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "CMSIS_NN",
               "version": "7.0.0"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "OnekyBot",
               "name": "STM32_SVD",
               "version": "1.20.0"
             },
