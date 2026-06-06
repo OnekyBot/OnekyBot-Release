@@ -122,10 +122,10 @@
           "architecture": "stm32",
           "version": "2.0.1",
           "category": "Contributed",
-          "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v2.0.0/onekybot_board_v2_0_0.tar.bz2",
-          "archiveFileName": "onekybot_board_v2_0_0.tar.bz2",
-          "checksum": "SHA-256:5c938c5e6a857bf2a22eadf8bb4e2e594355f3431489afe469107d6a55a2e0a4",
-          "size": "57298711",
+          "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v2.0.1/onekybot_board_v2_0_1.tar.bz2",
+          "archiveFileName": "onekybot_board_v2_0_1.tar.bz2",
+          "checksum": "SHA-256:96bb339c06492f5940c2f1e2908523b59166b4b9023b7da56d7b87339e7e1645",
+          "size": "57302482",
           "boards": [
             {"name": "OnekyBot F1 Series"},
             {"name": "OnekyBot F4 Series"}
