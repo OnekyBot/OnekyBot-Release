@@ -403,36 +403,36 @@
               "host": "i686-mingw32",
               "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-win-x64.zip",
               "archiveFileName": "node-v20.11.0-win-x64.zip",
-              "checksum": "SHA-256:bc0e835b4cd4e3b4a5ae5fa02df8e5f688b7902e2dca7f6c6d5730f7b8b4c1f5",
-              "size": "32542857"
+              "checksum": "SHA-256:893115cd92ad27bf178802f15247115e93c0ef0c753b93dca96439240d64feb5",
+              "size": "29701389"
             },
             {
               "host": "x86_64-apple-darwin",
               "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-darwin-x64.tar.gz",
               "archiveFileName": "node-v20.11.0-darwin-x64.tar.gz",
-              "checksum": "SHA-256:c52e7fb0709dbe63a4cbe08ac8af3479188692937a7bd8e776e0eedfa33bb848",
-              "size": "40126310"
+              "checksum": "SHA-256:c0ba02c905814258bd99a362027f8d4d2cc738218a9cf1dce2620e8735e3a80e",
+              "size": "43526786"
             },
             {
               "host": "arm64-apple-darwin",
               "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-darwin-arm64.tar.gz",
               "archiveFileName": "node-v20.11.0-darwin-arm64.tar.gz",
-              "checksum": "SHA-256:e0065c61f340e85106a99c4b54746c5cee09d59b08c5712f67f99e92aa44995d",
-              "size": "38497994"
+              "checksum": "SHA-256:94e443d007e2882f8e5aecc85d978f7591520dc3b642adc7583b3cb0b3fc37d7",
+              "size": "41896143"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-linux-x64.tar.gz",
               "archiveFileName": "node-v20.11.0-linux-x64.tar.gz",
-              "checksum": "SHA-256:822e8442dc9ab3c74c38a9c0e3e40ac3fc51dd6c0456a13a5cf92fcd5462d8b5",
-              "size": "44579985"
+              "checksum": "SHA-256:9556262f6cd4c020af027782afba31ca6d1a37e45ac0b56cecd2d5a4daf720e0",
+              "size": "46607807"
             },
             {
               "host": "aarch64-linux-gnu",
               "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-linux-arm64.tar.gz",
               "archiveFileName": "node-v20.11.0-linux-arm64.tar.gz",
-              "checksum": "SHA-256:e0f438498b3c76a8af48fd5c2a9ab83c58c2b7d84c6f6ac1bc8cd75e7e77e3f2",
-              "size": "42112048"
+              "checksum": "SHA-256:402178cd5438b9ed89bffafc119e2bd4148616390bcdfd7089090ffc4615c981",
+              "size": "46342864"
             }
           ]
         }
