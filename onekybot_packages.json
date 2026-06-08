@@ -172,6 +172,67 @@
               "version": "1.0.0"
             }
           ]
+        },
+        {
+          "name": "OnekyBot Boards",
+          "architecture": "stm32",
+          "version": "3.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v3.0.0/onekybot_board_v3_0_0.tar.bz2",
+          "archiveFileName": "onekybot_board_v3_0_0.tar.bz2",
+          "checksum": "SHA-256:6e8a6b93a45ad33d9fee086453684b5a24a951501a8da95228e0f221f7fbb329",
+          "size": "9737398",
+          "boards": [
+            {"name": "OnekyBot F1 Series"},
+            {"name": "OnekyBot F4 Series"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "OnekyBot",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "14.2.1-1.1"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "xpack-openocd",
+              "version": "0.12.0-6"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "STM32Tools",
+              "version": "2.4.0"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "CMSIS",
+              "version": "6.2.0"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "CMSIS_DSP",
+              "version": "1.16.2"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "CMSIS_NN",
+              "version": "7.0.0"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "STM32_SVD",
+              "version": "1.20.0"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "OnekyDFU",
+              "version": "2.0.0"
+            },
+            {
+              "packager": "OnekyBot",
+              "name": "nodejs",
+              "version": "20.11.0"
+            }
+          ]
         }
       ],
       "tools": [
