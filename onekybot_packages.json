@@ -383,6 +383,58 @@
             {"host": "x86_64-apple-darwin", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/onekybot_upload_v1_0_0.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:6f4b84adcc51fcaf14c7c7e8fc57a97e603197e92aeb9b33e654b09dd97f35d8", "size": "2102"},
             {"host": "x86_64-pc-linux-gnu", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v1.0.0/onekybot_upload_v1_0_0.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:6f4b84adcc51fcaf14c7c7e8fc57a97e603197e92aeb9b33e654b09dd97f35d8", "size": "2102"}
           ]
+        },
+        {
+          "name": "OnekyDFU",
+          "version": "2.0.0",
+          "systems": [
+            {"host": "aarch64-linux-gnu",   "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v2.0.0/onekybot_upload_v2_0_0.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:a333a24659e4eef56460871d4f29ed7cbc13884c57298debfd94d2016015d40e", "size": "2653"},
+            {"host": "arm64-apple-darwin",  "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v2.0.0/onekybot_upload_v2_0_0.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:a333a24659e4eef56460871d4f29ed7cbc13884c57298debfd94d2016015d40e", "size": "2653"},
+            {"host": "i686-mingw32",        "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v2.0.0/onekybot_upload_v2_0_0.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:a333a24659e4eef56460871d4f29ed7cbc13884c57298debfd94d2016015d40e", "size": "2653"},
+            {"host": "x86_64-apple-darwin", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v2.0.0/onekybot_upload_v2_0_0.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:a333a24659e4eef56460871d4f29ed7cbc13884c57298debfd94d2016015d40e", "size": "2653"},
+            {"host": "x86_64-pc-linux-gnu", "url": "https://github.com/OnekyBot/OnekyBot-Tools/releases/download/v2.0.0/onekybot_upload_v2_0_0.tar.bz2", "archiveFileName": "onekybot_upload.tar.bz2", "checksum": "SHA-256:a333a24659e4eef56460871d4f29ed7cbc13884c57298debfd94d2016015d40e", "size": "2653"}
+          ]
+        },
+        {
+          "name": "nodejs",
+          "version": "20.11.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-win-x64.zip",
+              "archiveFileName": "node-v20.11.0-win-x64.zip",
+              "checksum": "SHA-256:bc0e835b4cd4e3b4a5ae5fa02df8e5f688b7902e2dca7f6c6d5730f7b8b4c1f5",
+              "size": "32542857"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-darwin-x64.tar.gz",
+              "archiveFileName": "node-v20.11.0-darwin-x64.tar.gz",
+              "checksum": "SHA-256:c52e7fb0709dbe63a4cbe08ac8af3479188692937a7bd8e776e0eedfa33bb848",
+              "size": "40126310"
+            },
+            {
+              "host": "arm64-apple-darwin",
+              "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-darwin-arm64.tar.gz",
+              "archiveFileName": "node-v20.11.0-darwin-arm64.tar.gz",
+              "checksum": "SHA-256:e0065c61f340e85106a99c4b54746c5cee09d59b08c5712f67f99e92aa44995d",
+              "size": "38497994"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-linux-x64.tar.gz",
+              "archiveFileName": "node-v20.11.0-linux-x64.tar.gz",
+              "checksum": "SHA-256:822e8442dc9ab3c74c38a9c0e3e40ac3fc51dd6c0456a13a5cf92fcd5462d8b5",
+              "size": "44579985"
+            },
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-linux-arm64.tar.gz",
+              "archiveFileName": "node-v20.11.0-linux-arm64.tar.gz",
+              "checksum": "SHA-256:e0f438498b3c76a8af48fd5c2a9ab83c58c2b7d84c6f6ac1bc8cd75e7e77e3f2",
+              "size": "42112048"
+            }
+          ]
         }
       ]
     }
