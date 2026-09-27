@@ -241,8 +241,8 @@
           "category": "Contributed",
           "url": "https://github.com/OnekyBot/OnekyBot-Release/releases/download/v3.0.1/onekybot_board_v3_0_1.tar.bz2",
           "archiveFileName": "onekybot_board_v3_0_1.tar.bz2",
-          "checksum": "SHA-256:2f1ddb813dd6ac1aae9f7b8f74635d07a0754032ce99ed7f426207565cae5cd7",
-          "size": "9748432",
+          "checksum": "SHA-256:c51eaa10e5f48504179521103cd91f705552207c54e555df9fd09a0e430b530c",
+          "size": "9744878",
           "boards": [
             {"name": "OnekyBot F1 Series"},
             {"name": "OnekyBot F4 Series"}
